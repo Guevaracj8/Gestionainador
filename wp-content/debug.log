@@ -1,0 +1,19 @@
+[16-Oct-2025 04:17:37 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:37 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:38 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:38 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:58 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:58 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:58 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:58 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:59 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:17:59 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:18:01 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:18:01 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:18:17 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:18:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:18:31 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=23944 in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:18:31 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\class-wpdb.php on line 1988
+[16-Oct-2025 04:20:23 UTC] Automatic updates starting...
+[16-Oct-2025 04:20:27 UTC] Automatic updates complete.
+[16-Oct-2025 04:20:33 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Gestionainador\wordpress-6.8.3\wordpress\wp-includes\functions.php on line 6900
