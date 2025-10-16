@@ -1,20 +1,15 @@
-# Usa la imagen oficial de WordPress
+# Usa la imagen oficial de WordPress con PHP y Apache
 FROM wordpress:latest
 
-# Establece el directorio de trabajo
+# Copia todos los archivos de tu proyecto al contenedor
+COPY . /var/www/html
+
+# Asegúrate de que Apache sirva desde la raíz
 WORKDIR /var/www/html
 
-# Elimina archivos por defecto (opcional, pero evita duplicados)
-RUN rm -rf wp-content
-
-# Copia solo tu contenido personalizado (temas, plugins, uploads)
-COPY wp-content ./wp-content
-
-# Copia tu archivo wp-config.php si lo tienes adaptado a variables de entorno
-COPY wp-config.php ./wp-config.php
-
-# Asegura permisos correctos (muy importante)
-RUN chown -R www-data:www-data /var/www/html
-
-# Expone el puerto
+# Exponemos el puerto 80 para HTTP
 EXPOSE 80
+
+# Comando para levantar Apache en primer plano
+CMD ["apache2-foreground"]
+
